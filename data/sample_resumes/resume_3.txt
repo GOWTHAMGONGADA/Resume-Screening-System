@@ -1,0 +1,53 @@
+MICHAEL CHEN
+Data Science Engineer
+Email: michael.chen@email.com | Phone: (555) 345-6789
+LinkedIn: linkedin.com/in/michaelchen
+
+PROFESSIONAL SUMMARY
+Data scientist and machine learning engineer with 5 years of experience building predictive models and data pipelines. Expert in Python, data analysis, and machine learning frameworks. Strong background in statistical analysis, feature engineering, and model optimization.
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Data Analytics Corp | Seattle, WA | Feb 2021 - Present
+- Developed machine learning models using TensorFlow and PyTorch
+- Built data pipelines using Apache Spark and Hadoop
+- Optimized model performance through feature engineering
+- Collaborated with engineering teams on model deployment
+- Analyzed large datasets using Pandas and NumPy
+
+Data Scientist
+Analytics Startup | Seattle, WA | Jan 2020 - Jan 2021
+- Created predictive models for customer churn analysis
+- Performed exploratory data analysis using Pandas
+- Built dashboards using Tableau
+- Implemented machine learning algorithms
+
+Junior Analyst
+Finance Tech Solutions | Seattle, WA | Jun 2019 - Dec 2019
+- Analyzed financial data using Python and Excel
+- Assisted in statistical analysis and reporting
+
+TECHNICAL SKILLS
+
+Languages: Python, SQL, R
+ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+Big Data: Apache Spark, Hadoop, Hive
+Data Tools: Pandas, NumPy, Jupyter Notebook
+Visualization: Tableau, Matplotlib, Seaborn
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud: AWS (SageMaker, EC2), Google Cloud
+Other: Git, Docker, Linux
+
+EDUCATION
+
+Master's in Data Science
+University of Washington | May 2019
+
+Bachelor's in Statistics
+University of Washington | May 2018
+
+PROJECTS
+- Customer Churn Prediction: 85% accuracy using ensemble methods
+- Recommendation System: Movie recommendation engine using collaborative filtering
+- Sentiment Analysis: NLP project analyzing customer reviews with 89% accuracy

@@ -1,0 +1,55 @@
+Senior Software Engineer - Full Stack Development
+
+Company: Tech Innovation Corp
+Location: San Francisco, CA
+Salary: $150,000 - $200,000
+
+About the Role:
+We are looking for an experienced Senior Software Engineer to join our growing engineering team. You will lead the development of scalable web applications, mentor junior developers, and contribute to architectural decisions.
+
+Key Responsibilities:
+- Design and develop full-stack web applications using modern technologies
+- Lead code reviews and maintain code quality standards
+- Mentor junior and mid-level engineers
+- Collaborate with product and design teams to implement features
+- Optimize application performance and scalability
+- Implement CI/CD pipelines and DevOps best practices
+- Participate in architectural discussions and technical planning
+- Troubleshoot and resolve production issues
+
+Required Skills:
+- 5+ years of professional software development experience
+- Strong proficiency in Python, JavaScript/Node.js, and Java
+- Experience with React, Angular, or Vue.js for frontend development
+- Solid understanding of relational databases (MySQL, PostgreSQL)
+- Experience with MongoDB or other NoSQL databases
+- Knowledge of REST APIs and microservices architecture
+- Familiarity with Docker and Kubernetes
+- AWS or Azure cloud platform experience
+- Git version control proficiency
+- Understanding of SOLID principles and design patterns
+
+Preferred Skills:
+- Experience with machine learning models deployment
+- Terraform or Infrastructure as Code experience
+- Experience with Apache Spark for big data processing
+- GraphQL implementation experience
+- Agile/Scrum methodology expertise
+- Open source contributions
+
+Nice to Have:
+- Experience with CI/CD tools (Jenkins, GitLab CI)
+- Knowledge of TensorFlow or PyTorch
+- Elasticsearch experience
+- Tableau or Power BI for data visualization
+
+Benefits:
+- Competitive salary and equity
+- Health insurance
+- Remote work flexibility
+- Professional development budget
+- Flexible work hours
+
+Education:
+- Bachelor's degree in Computer Science or related field (or equivalent experience)
+- Master's degree is a plus

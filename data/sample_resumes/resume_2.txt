@@ -1,0 +1,61 @@
+SARAH MITCHELL
+Full Stack Web Developer
+Email: sarah.mitchell@email.com | Phone: (555) 234-5678
+Portfolio: sarahmitchell.dev | GitHub: github.com/sarahmitchell
+
+PROFESSIONAL SUMMARY
+Dedicated full-stack web developer with 4 years of experience creating responsive and user-friendly web applications. Skilled in React, Vue.js, Python, and Node.js. Strong background in responsive design, CSS animations, and creating pixel-perfect UIs. Collaborative team player with excellent communication skills.
+
+WORK EXPERIENCE
+
+Web Developer
+Creative Digital Agency | Los Angeles, CA | Mar 2021 - Present
+- Developed responsive web applications using React and Vue.js
+- Implemented backend services using Node.js and Express
+- Worked with MongoDB for NoSQL database solutions
+- Collaborated with designers on UI/UX implementation
+- Optimized website performance and accessibility
+- Mentored junior developers on best practices
+
+Junior Web Developer
+StartUp Hub | Los Angeles, CA | Sep 2020 - Feb 2021
+- Built web applications using HTML5, CSS3, and JavaScript
+- Developed backend APIs using Python and Flask
+- Database management with MySQL
+- Participated in daily standup meetings and sprint planning
+
+Front-End Developer (Internship)
+Tech Studios | Los Angeles, CA | Jun 2020 - Aug 2020
+- Assisted in building responsive web interfaces
+- Worked with Bootstrap and CSS frameworks
+- Learned agile development practices
+
+TECHNICAL SKILLS
+
+Languages: JavaScript, Python, HTML5, CSS3, SQL
+Frontend: React, Vue.js, Bootstrap, Webpack, Redux, Sass
+Backend: Node.js, Express.js, Python, Flask
+Databases: MySQL, MongoDB
+Tools: Git, GitHub, VS Code, Figma, Jira
+Design: Responsive design, CSS animations, accessibility
+
+EDUCATION
+
+Bachelor of Science in Web Development
+Community College of Los Angeles | May 2020
+
+CERTIFICATIONS
+- Responsive Web Design (freeCodeCamp)
+- JavaScript Algorithms and Data Structures
+
+PROJECTS
+- E-commerce Platform: Built using React and Node.js with Stripe integration
+- Social Media Dashboard: Real-time updates using Vue.js and Firebase
+- Personal Portfolio: Showcase of projects and skills
+
+SOFT SKILLS
+- Strong communication
+- Team collaboration
+- Problem-solving
+- Time management
+- Attention to detail

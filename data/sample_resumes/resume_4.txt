@@ -1,0 +1,57 @@
+EMILY RODRIGUEZ
+DevOps Engineer
+Email: emily.rodriguez@email.com | Phone: (555) 456-7890
+GitHub: github.com/emilyrodriguez
+
+PROFESSIONAL SUMMARY
+Infrastructure and DevOps engineer with 3+ years of experience automating deployment processes and managing cloud infrastructure. Proficient in AWS, Docker, Kubernetes, and Infrastructure as Code tools. Strong background in CI/CD pipeline implementation and system reliability.
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Cloud Infrastructure Inc. | Austin, TX | Sep 2021 - Present
+- Designed and implemented CI/CD pipelines using Jenkins and GitLab CI
+- Managed Kubernetes clusters for container orchestration
+- Automated infrastructure provisioning using Terraform
+- Monitored system performance and optimized resource allocation
+- Implemented disaster recovery and backup strategies
+
+Cloud Systems Administrator
+Web Services Ltd. | Austin, TX | Jun 2020 - Aug 2021
+- Managed AWS cloud infrastructure (EC2, S3, RDS, Lambda)
+- Configured and maintained Docker containers
+- Implemented monitoring solutions using Prometheus and Grafana
+- Supported development teams with infrastructure needs
+
+IT Support Specialist
+Tech Company | Austin, TX | Jan 2020 - May 2020
+- Provided technical support to development teams
+- Managed Linux and Windows servers
+- Assisted with AWS infrastructure setup
+
+TECHNICAL SKILLS
+
+Cloud Platforms: AWS, Azure, Google Cloud
+Containerization: Docker, Kubernetes, container orchestration
+Infrastructure as Code: Terraform, Ansible
+CI/CD: Jenkins, GitLab CI, GitHub Actions
+Monitoring: Prometheus, Grafana, CloudWatch, ELK Stack
+Databases: PostgreSQL, MySQL, MongoDB
+Languages: Python, Bash, YAML
+Tools: Git, Linux administration, networking
+Other: Microservices architecture, networking, security
+
+EDUCATION
+
+Diploma in Network Administration
+Technical Institute | May 2020
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Kubernetes Administrator (CKA)
+- Docker Certified Associate
+
+PROJECTS
+- Multi-region AWS deployment reducing latency by 30%
+- Kubernetes migration reducing infrastructure costs by 25%
+- Automated backup system with 99.9% uptime
