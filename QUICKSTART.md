@@ -6,9 +6,7 @@ Resume Screening System - Get Started in 5 Minutes!
 
 ## Step 1: Installation (2 min)
 
-```bash
-# Navigate to project directory
-cd FUTURE_ML_03
+
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -108,7 +106,7 @@ After screening, in Results tab:
 ## Project Structure
 
 ```
-FUTURE_ML_03/
+SCREENING_SYSTEM/
 ├── app.py                    # Web app (run this!)
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Full documentation
