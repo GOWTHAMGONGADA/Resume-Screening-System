@@ -421,10 +421,10 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💼 Author
 
-**Your Name**  
+GOWTHAM GONGADA 
 Machine Learning & NLP Enthusiast  
-GitHub: [@YourUsername](https://github.com/YourUsername)  
-Email: your.email@example.com
+GitHub: GOWTHAMGONGADA - (https://github.com/GOWTHAMGONGADA)  
+Email: gowthamgongada@gmail.com
 
 ---
 
